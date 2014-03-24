@@ -57,6 +57,7 @@ setup(
         "spreads",
         "spreads.vendor",
         "spreads.vendor.huey",
+        "spreads.vendor.huey.backends",
         "spreadsplug",
         "spreadsplug.dev",
         "spreadsplug.gui",
